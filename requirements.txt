@@ -1,0 +1,7 @@
+streamlit
+google-play-scraper
+keybert
+scikit-learn
+sentence-transformers
+transformers
+torch
